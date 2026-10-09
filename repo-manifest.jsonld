@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/NousResearch/Liger-Kernel",
+  "@type": "gh:Repository",
+  "gh:name": "Liger-Kernel",
+  "gh:owner": "NousResearch",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/NousResearch/Liger-Kernel/commit/99a90f7cc42a0606c1680cca3999cb498ab75723",
+      "git:hexsha": "99a90f7cc42a0606c1680cca3999cb498ab75723",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
