@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/Liger-Kernel/commit/99a90f7cc42a0606c1680cca3999cb498ab75723",
       "git:hexsha": "99a90f7cc42a0606c1680cca3999cb498ab75723",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
